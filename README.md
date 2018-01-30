@@ -2,20 +2,20 @@
 
 ## ideas
 
-* [https://geektimes.ru/post/279292/](Беспроводное домашнее облако для вещей интернета)
-* [https://geektimes.ru/company/dataart/blog/282214/](IoT за копейки: делаем устройство с веб-интерфейсом)
-* [https://habrahabr.ru/post/229235/](Мой web-интерфейс управления умной квартирой)
-* [https://geektimes.ru/post/255546/](Простое управление arduino через интернет)
-* [https://github.com/arendst/Sonoff-MQTT-OTA-Arduino/blob/master/README.md](what?)
-* [https://mysku.ru/blog/china-stores/41710.html](Альтернативная прошивка для sonoff и управления Livolo)
-* [https://blog.ipsumdomus.com/sonoff-switch-complete-hack-without-firmware-upgrade-1b2d6632c01](Sonoff switch complete hack without firmware upgrade)
-* [https://geektimes.ru/post/273048/](Умная дача #1. Модули Sonoff от ITEAD)
+* [Беспроводное домашнее облако для вещей интернета](https://geektimes.ru/post/279292/)
+* [IoT за копейки: делаем устройство с веб-интерфейсом](https://geektimes.ru/company/dataart/blog/282214/)
+* [Мой web-интерфейс управления умной квартирой](https://habrahabr.ru/post/229235/)
+* [Простое управление arduino через интернет](https://geektimes.ru/post/255546/)
+* [what?](https://github.com/arendst/Sonoff-MQTT-OTA-Arduino/blob/master/README.md)
+* [Альтернативная прошивка для sonoff и управления Livolo](https://mysku.ru/blog/china-stores/41710.html)
+* [Sonoff switch complete hack without firmware upgrade](https://blog.ipsumdomus.com/sonoff-switch-complete-hack-without-firmware-upgrade-1b2d6632c01)
+* [Умная дача #1. Модули Sonoff от ITEAD](https://geektimes.ru/post/273048/)
 * []()
 * []()
 
 ## e-welink sonoff firmware
-* [https://mysku.ru/blog/aliexpress/54424.html](Интеграция блоков реле Sonoff basic в систему умного дома на базе Domoticz)
-* [https://www.letscontrolit.com/wiki/index.php/ESPEasy](ESPEasy)
+* [Интеграция блоков реле Sonoff basic в систему умного дома на базе Domoticz](https://mysku.ru/blog/aliexpress/54424.html)
+* [ESPEasy](https://www.letscontrolit.com/wiki/index.php/ESPEasy)
 * []()
 * []()
 * []()
